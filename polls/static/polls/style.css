@@ -13,6 +13,7 @@ ul {
     border: 2px solid white;
     border-radius: 8px;
     padding: 40px;
+    text-align: center;
     backdrop-filter: blur(10px);
 }
 
@@ -26,7 +27,7 @@ li a {
     text-decoration: underline;
     color: white;
     font-weight: bold;
-    margin: 8px;
+    margin: 10px;
 }
 
 li a:hover {
