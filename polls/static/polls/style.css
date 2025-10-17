@@ -4,19 +4,22 @@
 
 body {
     background: white url("images/background.png") no-repeat;
-    color: white;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 ul {
     border: 2px solid white;
     border-radius: 8px;
+    text-align: center;
 }
 
 li {
     list-style: upper-roman;
     font-weight: bold;
-
+    color: white;
 }
 
 li a {
