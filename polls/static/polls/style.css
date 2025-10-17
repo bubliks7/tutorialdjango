@@ -6,24 +6,21 @@ body {
     background: white url("images/background.png") no-repeat;
     display: flex;
     justify-content: center;
-    align-items: center;
-    height: 100vh;
 }
 
 ul {
     border: 2px solid white;
     border-radius: 8px;
-    text-align: center;
+    padding: 40px;
 }
 
 li {
     list-style: upper-roman;
-    font-weight: bold;
-    color: white;
 }
 
 li a {
     text-decoration: none;
+    color: white;
 }
 
 li a:hover {
