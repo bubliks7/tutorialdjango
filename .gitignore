@@ -1,2 +1,10 @@
 .pyc
-__pycache__
+__pycache__/
+.pyo
+.pyd
+venv/
+.env/
+env/
+db.sqlite3
+HEAD
+.env
